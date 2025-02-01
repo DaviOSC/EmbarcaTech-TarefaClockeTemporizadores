@@ -5,6 +5,8 @@
 #define LED_PIN_GREEN 11
 #define LED_PIN_RED 13
 #define LED_PIN_BLUE 12
+
+// Variáveis globais para controlar o estado dos LEDs.
 bool led_red_on = true;
 bool led_blue_on = false;
 bool led_green_on = false;
