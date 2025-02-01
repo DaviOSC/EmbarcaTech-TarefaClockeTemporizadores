@@ -24,12 +24,6 @@ Este projeto implementa um sistema de temporização para o acionamento de LEDs 
 1. Clone o repositório do projeto.
 2. Configure o ambiente de desenvolvimento do Raspberry Pi Pico.
 3. Compile o código usando o CMake:
-   ```sh
-   mkdir build
-   cd build
-   cmake ..
-   make
-   ```
 4. Carregue o binário no Raspberry Pi Pico.
 
 ## Estrutura do Código
