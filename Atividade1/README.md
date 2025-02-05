@@ -35,3 +35,6 @@ A função `repeating_timer_callback` é chamada pelo temporizador a cada 3 segu
 ### Função `main`
 
 A função `main` inicializa a comunicação serial e os pinos dos LEDs como saída. Em seguida, configura o temporizador para chamar a função de callback a cada 3 segundos. A rotina principal imprime uma mensagem na porta serial a cada segundo.
+
+## Link para o vídeo de explicação
+https://youtu.be/AgWFkgax3zs
