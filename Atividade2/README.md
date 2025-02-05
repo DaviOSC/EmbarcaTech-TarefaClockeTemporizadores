@@ -47,3 +47,6 @@ Para evitar múltiplas leituras do botão devido ao efeito bouncing, foi impleme
 #### Trava do Acionamento da Rotina
 
 Durante a execução das rotinas de temporização, o botão não pode iniciar uma nova chamada da função callback. Isso é controlado pela variável `led_active`, que impede que o botão altere o estado dos LEDs enquanto a rotina de temporização está em andamento.
+
+## Link para o vídeo de explicação
+https://youtu.be/rATWbYzpjPE
